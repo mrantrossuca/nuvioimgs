@@ -1,0 +1,752 @@
+[
+  {
+    "focusGlowEnabled": false,
+    "folders": [
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88328",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88329",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86752",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86751",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/kgkTFbtw/Netflix.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "5b24700b-71a3-4288-99ef-2ee0a6967cbc",
+        "tileShape": "LANDSCAPE",
+        "title": "Netflix"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88332",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88333",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86755",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86753",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/dVz5myTz/Prime.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "3236a74f-c1b3-4345-a8e8-f90c309a1d2f",
+        "tileShape": "LANDSCAPE",
+        "title": "Prime "
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88322",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88323",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86759",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86758",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/W1Q56kJB/Disney.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "c85d04ca-3608-4ba8-85bf-cb2156d2b6a3",
+        "tileShape": "LANDSCAPE",
+        "title": "Disney+"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88324",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88325",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89647",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89649",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/cLVFMn8X/HBO-Max.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "fbaaca70-5628-4491-a1e0-4fc409649cae",
+        "tileShape": "LANDSCAPE",
+        "title": "HBO Max "
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88317",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88319",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86757",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86756",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/4xrWb9hS/Apple-TV.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "85be9f97-8082-408f-b940-cf9c1b438131",
+        "tileShape": "LANDSCAPE",
+        "title": "Apple TV"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88330",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88331",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86762",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86761",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/RZjgQHn8/Paramount.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "73be8820-b914-488c-9a6b-a1079b92df0c",
+        "tileShape": "LANDSCAPE",
+        "title": "Paramount+"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88326",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88327",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.127955",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.127954",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/CxWcHqfv/Hulu.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "42a75646-099a-420c-a8e7-111fffdc1490",
+        "tileShape": "LANDSCAPE",
+        "title": "Hulu"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.84239",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.84240",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/P5BSzw89/Peacock.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "76432435-55b5-4c4f-b547-ff82011cd8d1",
+        "tileShape": "LANDSCAPE",
+        "title": "Peacock"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.98862",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.99202",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/Hkf64y7P/Crunchyroll.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "ca26d9a5-8331-467d-927b-f9319f6cbdea",
+        "tileShape": "LANDSCAPE",
+        "title": "Crunchyroll"
+      }
+    ],
+    "id": "5f0f776a-929c-4a24-8efe-e6c552a176d6",
+    "pinToTop": true,
+    "showAllTab": true,
+    "title": "Streaming Services",
+    "viewMode": "FOLLOW_LAYOUT"
+  },
+  {
+    "focusGlowEnabled": false,
+    "folders": [
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91211",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91213",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2407",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.45762",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128037",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128029",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/QCk2vqct/ACTION.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "c97da0ae-87ea-4ed0-8c93-b27484443cd8",
+        "tileShape": "SQUARE",
+        "title": "Action"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.116037",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.116038",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.69018",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.153462",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128035",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128034",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/QCk2vqcC/ANIMATION.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "ac61b359-c78b-412e-8db9-ff86a6f9210f",
+        "tileShape": "SQUARE",
+        "title": "Animation"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.104289",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.105461",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88468",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88469",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2483",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2472",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/NFchNn2v/ANIME.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "bc5e3845-a501-47f4-ba60-84e57aeb8f11",
+        "tileShape": "SQUARE",
+        "title": "Anime"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91223",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91224",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2195",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.45764",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128040",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128041",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/6qLkFhCp/COMEDY.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "2ef9852f-a586-4a4b-bd5c-1cdfc9cd86bd",
+        "tileShape": "SQUARE",
+        "title": "Comedy"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128051",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128052",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2406",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.78412",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128027",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128028",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/7hMFjNSY/DOCUMENTARY.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "0122e688-dd39-44a7-9316-f83e18774e5c",
+        "tileShape": "SQUARE",
+        "title": "Documentary"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91296",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91297",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2408",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.45766",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128043",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128044",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/tJtK8zFX/DRAMA.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "3f7a6cc4-45d0-4925-9541-f777e6f23669",
+        "tileShape": "SQUARE",
+        "title": "Drama"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.24262",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.147641",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2415",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.157286",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.76113",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.59967",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/vTLJCv5G/FAMILY.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "f35efb6d-9d7e-456d-a97f-42ff8f5a62ee",
+        "tileShape": "SQUARE",
+        "title": "Family"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91215",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91217",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2410",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.10665",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128045",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128046",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/D0d9Rc1k/HORROR.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "525f0ecc-189f-466c-a60a-eb6063c3967b",
+        "tileShape": "SQUARE",
+        "title": "Horror"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.130778",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.130775",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.150310",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3584",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.130779",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.130777",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/rsCB795L/KOREAN.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "28567fcb-3498-4b24-81f5-7bc9a55af99f",
+        "tileShape": "SQUARE",
+        "title": "Korean"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2416",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.45183",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/qqXPWG2f/MYSTERY.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "4df434d8-a8f9-48e9-a1ba-d368e49b4162",
+        "tileShape": "SQUARE",
+        "title": "Mystery"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128262",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128265",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128261",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128264",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/Y0f5TxYV/ROMANCE.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "bba11a6c-616f-4dc9-a681-d7a766b51aab",
+        "tileShape": "SQUARE",
+        "title": "Romance"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91220",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91221",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2412",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.79476",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128047",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128048",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/hvbkN0T5/SCI-FI.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "6dd4656f-041d-4847-b732-f98a7f28e2dd",
+        "tileShape": "SQUARE",
+        "title": "Sci-Fi"
+      },
+      {
+        "catalogSources": [
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91893",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91894",
+            "type": "series"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128049",
+            "type": "movie"
+          },
+          {
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.128050",
+            "type": "series"
+          }
+        ],
+        "coverImageUrl": "https://i.postimg.cc/gjW9M7Lp/THRILLER.png",
+        "focusGifEnabled": true,
+        "hideTitle": true,
+        "id": "e9e584cf-a4b0-4422-ba09-9ae698487843",
+        "tileShape": "SQUARE",
+        "title": "Thriller"
+      }
+    ],
+    "id": "dc563fab-5c83-4a3d-8a4f-5aafe13276c7",
+    "pinToTop": false,
+    "showAllTab": true,
+    "title": "Genres",
+    "viewMode": "TABBED_GRID"
+  }
+]
